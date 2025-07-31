@@ -1,7 +1,4 @@
 # 🧙‍♂️ Eric Schäfer
-- 👨‍💻 CS Student from Germany
-- 💻 Studying Applied Computer Sciences at Pforzheim University
-- 💞️ Always on the edge of exmatriculation
 
 
 <!---
